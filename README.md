@@ -32,13 +32,14 @@ Our Tools:
 
 3. Create your files manually
 
-4. Watch your main scss file and point out the output to **a css file**: example: `sass --watch src/sass/app.scss:src/app.css`
+4. Watch your main scss file and point out the output to **a css file**:
+example: `sass --watch src/sass/app.scss:src/app.css`
 
 
 ## Host your site  in GitHub Pages
 1.  Create a repo in your GitHub account
 
-2. Save upload your files in GitHub:
+2. Upload your files in GitHub:
  - See your changes: `git status`
  - Include all your changes: `git add .`
  - Name your changes: `git commit -m "name your changes"`
