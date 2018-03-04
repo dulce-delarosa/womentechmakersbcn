@@ -20,8 +20,8 @@ Our Tools:
 3. Create your project: `create-react-app name-of-ur-project`
 
 4. See your project in the browser:
- - Go to your project: `cd name-of-ur-project`
- - Run your project locally: `npm start` *(Remember to keep this terminal window open)*
+   - Go to your project: `cd name-of-ur-project`
+   - Run your project locally: `npm start` *(Remember to keep this terminal window open)*
 
 
 
@@ -32,22 +32,24 @@ Our Tools:
 
 3. Create your files manually
 
-4. Watch your main scss file and point out the output to **a css file**:
-example: `sass --watch src/sass/app.scss:src/app.css`
+4. Watch your main scss file and point out the output to **a css file**: example:
+  `sass --watch src/sass/app.scss:src/app.css`
 
 
 ## Host your site  in GitHub Pages
 1.  Create a repo in your GitHub account
 
 2. Upload your files in GitHub:
- - See your changes: `git status`
- - Include all your changes: `git add .`
- - Name your changes: `git commit -m "name your changes"`
- - Send your files to GitHub: `git push`
+   - See your changes: `git status`
+   - Include all your changes: `git add .`
+   - Name your changes: `git commit -m "name your changes"`
+   - Send your files to GitHub: `git push`
 
 
-3. Add the url website in the .json file from your project: `"homepage": "https://user-name.github.io/repo-name"`
-*example, in my case was:*  `"homepage": "https://dulce-delarosa.github.io/my-website"`.
+3. Add the url website in the .json file from your project:
+ `"homepage": "https://user-name.github.io/repo-name"`
+ *example, in my case was:*
+ `"homepage": "https://dulce-delarosa.github.io/my-website"`.
 
 4. Go to the terminal and install the GitHub Pages plugin: `npm install --save-dev gh-pages -g`
 
