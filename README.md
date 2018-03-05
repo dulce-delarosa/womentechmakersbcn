@@ -1,6 +1,6 @@
 # Your react progect in GitHub Pages
 
-This is the web template explained in the Women Techmakers BCN event.
+This is the web template explained in the Women Techmakers BCN talk.
 
 Our Tools:
 
