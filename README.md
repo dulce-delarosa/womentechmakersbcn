@@ -61,4 +61,4 @@ Our Tools:
 
 8. Go to the settings from your repo *(in your GitHub account)*, and look the message that confirms that your website is published:
 
->Your site is published at https://dulce-delarosa.github.io/my-website/
+>Your site is published at https://dulce-delarosa.github.io/womentechmakersbcn/
