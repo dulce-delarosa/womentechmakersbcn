@@ -1,4 +1,4 @@
-# Your react progect in GitHub Pages
+# Your react project in GitHub Pages
 
 This is the web template explained in the Women Techmakers BCN talk.
 
