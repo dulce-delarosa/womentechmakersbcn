@@ -10,7 +10,7 @@ class App extends Component {
       <div>
         <header>
           <div className="container">
-            <img src={'images/george.jpg'} alt="George" />
+            <img src={'images/user.jpg'} alt="George" />
             <h1>Hello, this is my website!</h1>
             <p>If you learned how to add text, images and style them, <span className="highlight">then you can do awesome stuff!</span></p>
           </div>
