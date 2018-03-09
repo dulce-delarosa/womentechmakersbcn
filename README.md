@@ -57,7 +57,7 @@ Our Tools:
 3. Add the url website in the .json file from your project:
  `"homepage": "https://user-name.github.io/repo-name"`
  *example, in my case was:*
- `"homepage": "https://dulce-delarosa.github.io/my-website"`.
+ `"homepage": "https://dulce-delarosa.github.io/womentechmakersbcn"`.
 
 4. Go to the terminal and install the GitHub Pages plugin: `npm install --save-dev gh-pages -g`
 
