@@ -2,16 +2,22 @@
 
 This is the web template explained in the Women Techmakers BCN talk.
 
-Our Tools:
+*note: Before installing React.js you need to install Node.js and npm.
+(They are just a set of tool that are going to help us with the software installation).*
 
-* The terminal
+*Just [download the packages from this link](https://www.npmjs.com/get-npm) and follow the instructions.*
+
+
+
+
+Our Tools:
 * React.js
 * SASS
 * GitHub Pages
 
 
 
-## Install React.js
+## [Install React.js](https://reactjs.org/tutorial/tutorial.html#what-were-building)
 1. Open your terminal and go to your desktop:  `cd Desktop`
  *(or the place where you want to create your project ).*
 
@@ -25,7 +31,8 @@ Our Tools:
 
 
 
-## Install SASS
+## [Install SASS](http://sass-lang.com/install)
+
 1. Open your terminal and go to your project:  `cd name-of-ur-project`
 
 2. Install SASS: `sudo gem install sass`
@@ -37,6 +44,7 @@ Our Tools:
 
 
 ## Host your site  in GitHub Pages
+
 1.  Create a repo in your GitHub account
 
 2. Upload your files in GitHub:
@@ -62,3 +70,10 @@ Our Tools:
 8. Go to the settings from your repo *(in your GitHub account)*, and look the message that confirms that your website is published:
 
 >Your site is published at https://dulce-delarosa.github.io/womentechmakersbcn/
+
+#### Find out more about Git and GitHub Pages:
+- [GitHub Pages](https://pages.github.com/)
+- [About Git](https://git-scm.com/doc)
+
+
+
